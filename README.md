@@ -1,4 +1,4 @@
-Introducing "Music Missionary" – Your Melodic Journey to Spiritual Harmony!
+MUSIC MISSIONARY – Your Melodic Journey to Spiritual Harmony!
 
 Hear through on a soul-stirring musical pilgrimage with Music Missionary, where the ethereal realm of hymns meets cutting-edge technology. Immerse yourself in a unique app that transcends the ordinary, harmonizing the spiritual and the digital in perfect symphony.
 
@@ -20,7 +20,7 @@ Envisioned as more than just an app, MusicMissionary is a bridge between the anc
 
 Join us on this harmonious expedition! Download MusicMissionary now and let the melodies of faith guide your spiritual quest.
 
-[Download Now]
+[[Download Now]](https://github.com/navii-official/Music-Missionary-v1.3/blob/main/Music%20Missionary%20%5Bv1.3%5D%20-%20signed.apk)
 
 🌐 Stay Connected:
 Follow us on social media for updates, community features, and more!
