@@ -28,6 +28,6 @@ Follow us on social media for updates, community features, and more!
 - Facebook: [Music Missionary Facebook page](https://www.facebook.com/profile.php?id=61557375536730)
 
 Contact Us:
-Have questions or feedback? Reach out to our team at [support@musicmissionary.com].
+Have questions or feedback? Reach out to our team at [contact.musicmissionary@gmail.com].
 
 Let the Music Missionary app be the anthem of your spiritual journey – where melody meets divinity.
